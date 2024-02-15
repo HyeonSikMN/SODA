@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeonSik%20Github!&fontSize=70" width="100%"/>
 </div>
-
+# 자기소개
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -41,3 +41,4 @@
 </div>
 <div align=center>
 	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSikMN&layout=compact">
