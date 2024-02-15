@@ -63,3 +63,49 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSikMN&layout=compact">
+
+# 💻 Function Implements
+<details>
+  <summary>1. 로그인 & 회원가입 </summary>
+	
+   ![1](https://github.com/HyeonSikMN/SODA/assets/138096145/ae69693c-8b70-44ba-b225-b5618533e465)
+</details>
+<details>
+  <summary>2. 대시보드 </summary>
+	
+![2](https://github.com/HyeonSikMN/SODA/assets/138096145/f69564ef-dc1a-4eaa-afaf-650df01b5c20)
+</details>
+<details>
+  <summary>3. 검색바 </summary>
+	
+![3](https://github.com/HyeonSikMN/SODA/assets/138096145/f5d899d9-77b9-4354-aee5-b12858937601)
+</details>
+<details>
+  <summary>4. 프로젝트 피드 - 옵션 </summary>
+	
+![4](https://github.com/HyeonSikMN/SODA/assets/138096145/8a24e5f6-fb20-4b83-bfd0-3011ff9b604c)
+</details>
+<details>
+  <summary>5. 프로젝트 피드 - 게시글 생성 </summary>
+	
+![5](https://github.com/HyeonSikMN/SODA/assets/138096145/f626fd43-eaf9-461b-b48d-c92078650685)
+</details>
+<details>
+  <summary>6. 프로젝트 피드 - 프로필 </summary>
+	
+![6](https://github.com/HyeonSikMN/SODA/assets/138096145/99ea6ec5-ed7f-41b0-a48e-e7a22be2ee21)
+</details>
+<details>
+  <summary>7. 좌측바 </summary>
+	
+![7](https://github.com/HyeonSikMN/SODA/assets/138096145/30f3677a-9e54-468a-a4af-37ed5075c65e)
+</details>
+<details>
+  <summary>8. 관리자 페이지 </summary>
+	
+![8](https://github.com/HyeonSikMN/SODA/assets/138096145/f688a07a-17e8-4b0e-96d8-045697878149)
+![8-2](https://github.com/HyeonSikMN/SODA/assets/138096145/63578c7a-91ca-4543-833a-ec5940ca3ef0)
+</details>
+
+# 📊 DataBase ERD
+![ERD](https://github.com/HyeonSikMN/SODA/assets/138096145/447573f3-e5d0-43b6-a410-3c655ca842c8)
